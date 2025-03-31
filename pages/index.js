@@ -1,0 +1,1 @@
+// Page d’accueil avec navigation vers les modules
