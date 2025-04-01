@@ -1,1 +1,1 @@
-// Page de connexion Google/Email
+// Connexion via Google ou Email

@@ -1,1 +1,1 @@
-// Page de réglages avec pseudo, thème, rôle
+// Page de réglages avec pseudo, rôle, thème

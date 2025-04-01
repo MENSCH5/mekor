@@ -1,2 +1,2 @@
-# Mekor V4
-Application d’étude de la Torah avec comptes, modules enrichis, et page de réglages.
+# Mekor V5
+Version complète avec espace créateur, connexion fluide, modules enrichis et design responsive.

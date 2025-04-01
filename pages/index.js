@@ -1,1 +1,1 @@
-// Page d’accueil avec navigation vers les modules
+// Accueil avec bouton Connexion / Inscription et message de bienvenue

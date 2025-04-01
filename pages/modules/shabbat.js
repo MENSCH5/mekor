@@ -1,1 +1,1 @@
-// Module Shabbat enrichi
+// Module Shabbat enrichi avec contenu textuel et visuel
